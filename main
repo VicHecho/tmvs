@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>TMVS - The Official Home of : In Space : The Podcast</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+	<header>
+		<div class="row">
+			<div class="col">
+				<img class="style-logo" src="images/logo.png" alt="Prism Logo">
+				<nav class="style-nav">
+					<ul>
+						<li><a href="#">Podcasts</a></li>
+						<li><a href="#">works</a></li>
+						<li><a href="#">Shop</a></li>
+						<li><a href="#">Crowdfunding</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</header>
+	
+	<main>
+		<div class="row">
+			<div class="col">
+				<div class="hero">
+					<h3>oohh so spice</h3>
+					<h4>agua pls</h4>
+					<h1>so spice</h1>
+					<a href="" class="button">Listen</a>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col col-md-one-half">
+				<div class="info-box-tan">
+					<h2>Join Our Kickstarter</h2>
+					<p>We'd like to improve our quality over time for you the listener so please support us to make that a reality.</p>
+					<a href="" class="button">Read More</a>
+				</div>
+			</div>
+			<div class="col col-md-one-half">
+				<div class="info-box-dark">
+					<h2>Amazon Wishlist</h2>
+					<p>Been burned on trying to support sketchy internet businesses one time too many? We've got you bro!!! Support us directly if you'd like by gifting us equipment from the interwebs so we can up our shit.</p>
+					<a href="" class="button">Read More</a>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col col-md-one-half col-lg-one-fourth"><img src="images/gallery-1.jpg" alt=""></div>
+			<div class="col col-md-one-half col-lg-one-fourth"><img src="images/gallery-2.jpg" alt=""></div>
+			<div class="col col-md-one-half col-lg-one-fourth"><img src="images/gallery-3.jpg" alt=""></div>
+			<div class="col col-md-one-half col-lg-one-fourth"><img src="images/gallery-4.jpg" alt=""></div>
+		</div>
+	</main>
+	
+	<footer>
+		<div class="row">
+			<div class="col">
+				<p class="footer-text">©2019 Team Vicious LLC. All rights reserved.</p>
+				<p class="footer-text">Any reference to real life people, places and things are for entertainment purposes only.</p>
+				<p> BTC Wallet address; a;lkjdsal;kjasd;kjasdfklj;</p>
+			</div>
+		</div>
+	</footer>
+
+</body>
+</html>
